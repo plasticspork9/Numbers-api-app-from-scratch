@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumbersApiApp</string>
+    <string name="editText_input">Enter A Random Number</string>
+    <string name="trivia_button_text">Trivia!</string>
+</resources>
